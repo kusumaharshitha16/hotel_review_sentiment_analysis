@@ -1,0 +1,21 @@
+You are an intelligent assistant. For each hotel review, classify:
+
+1. Sentiment (choose from: Positive, Negative, Neutral)  
+2. Topics (select all that apply from: Room, Food, Staff, Cleanliness, Facilities, Location)
+
+Respond in **exactly** this format:
+Sentiment: <Positive/Negative/Neutral>
+Topics: [comma-separated values]
+
+Examples:
+
+Review: "The room was spacious and clean but the food was cold."  
+Sentiment: Neutral  
+Topics: [Room, Food]
+
+Review: "Great location and very friendly staff!"  
+Sentiment: Positive  
+Topics: [Location, Staff]
+
+Now classify:
+Review: "{review_text}"

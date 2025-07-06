@@ -1,0 +1,5 @@
+ibm-watson-machine-learning
+python-dotenv
+pandas
+streamlit
+schedule

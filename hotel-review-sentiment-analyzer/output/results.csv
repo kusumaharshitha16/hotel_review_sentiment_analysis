@@ -1,0 +1,6 @@
+Review,Sentiment,Topics
+The room was clean and spacious but the food was terrible.,"Negative Topics: [Room, Food]","Sentiment: Negative  [Room, Food"
+Excellent service from the staff and great location.,"Positive Topics: [Location, Staff]","Sentiment: Positive  [Location, Staff"
+Terrible experience. Bathroom was dirty and no hot water.,"Negative Topics: [Cleanliness, Room]","Sentiment: Negative  [Cleanliness, Room"
+"Friendly staff, comfortable bed, but noisy at night.",Error,Error
+Great location and amazing view from the room!,Error,Error
