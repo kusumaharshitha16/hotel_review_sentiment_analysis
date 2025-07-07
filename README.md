@@ -70,4 +70,4 @@ OpenAI – Logic support and project structuring assistance
 This project is licensed under the MIT License.
 
 ✨ Contributor
-Harshitha Kusuma (Project Lead)
+Kusuma Harshitha (Project Lead)
