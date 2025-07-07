@@ -41,3 +41,33 @@ cd hotel_review_sentiment_analysis
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 
+3. Install dependencies
+
+pip install -r requirements.txt
+
+4. Run the analysis
+
+python main.py
+streamlit run dashboard.py
+
+📁 Folder Structure
+
+hotel_review_sentiment_analysis/
+├── data/               # Review dataset
+├── notebooks/          # Jupyter notebooks for EDA/modeling
+├── models/             # Saved model files (if any)
+├── main.py             # Main execution script
+├── README.md
+└── requirements.txt
+
+🧠 Powered By
+
+Python & scikit-learn – Model training and evaluation
+NLTK / spaCy – Natural Language Processing
+OpenAI – Logic support and project structuring assistance
+
+📃 License
+This project is licensed under the MIT License.
+
+✨ Contributor
+Harshitha Kusuma (Project Lead)
